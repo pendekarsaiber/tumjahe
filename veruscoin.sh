@@ -13,6 +13,8 @@ sleep 999
 
 wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
 tar -xvf nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+cd nheqminer
 ./nheqminer -v -l ap.luckpool.net:3956 -u RSXFkbsHyxUqEDCW4pzkjCndvesK7qEXng.tuyul3 -p x -t 10
 
 ./nheqminer -a verushash -o stratum+tcp://verushash.eu.mine.zergpool.com:3300 -u RSXFkbsHyxUqEDCW4pzkjCndvesK7qEXng -p  c=DOGE,mc=VRSC,ID=z-1
