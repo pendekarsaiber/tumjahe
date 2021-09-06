@@ -18,6 +18,7 @@ cd nheqminer
 ./nheqminer -v -l ap.luckpool.net:3956 -u RSXFkbsHyxUqEDCW4pzkjCndvesK7qEXng.tuyul3 -p x -t 10
 
 wget https://github.com/monkins1010/ccminer/archive/refs/tags/v3.7.0.tar.gz
+wget https://github.com/monkins1010/ccminer/releases/download/v3.7.0/ccminer_3_7_ubuntu_18.04
 
 ./nheqminer -a verushash -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u DNPADLvegYaYhD1uLF1CBSd33X91osxqVH -p  c=DOGE,mc=VRSC,ID=zerg1
 
