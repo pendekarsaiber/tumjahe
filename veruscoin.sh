@@ -29,4 +29,7 @@ https://colab.research.google.com/drive/1VKAOqvzqbf5lhPYI_Gecp0OtaGF62j8E
 ========================unmineable===============================================
 
 wget https://github.com/xmrig/xmrig/releases/download/v6.15.0/xmrig-6.15.0-linux-x64.tar.gz
+tar -xvf xmrig-6.15.0-linux-x64.tar.gz
+
+
 
