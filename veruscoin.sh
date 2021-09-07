@@ -25,3 +25,8 @@ wget https://github.com/monkins1010/ccminer/releases/download/v3.7.0/ccminer_3_7
 https://colab.research.google.com/drive/1TrKh_s2asG0n64IxW7_UANnkctTKREoD#scrollTo=3net2zi6yqsD
 
 https://colab.research.google.com/drive/1VKAOqvzqbf5lhPYI_Gecp0OtaGF62j8E
+
+========================unmineable===============================================
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.0/xmrig-6.15.0-linux-x64.tar.gz
+
